@@ -23,6 +23,7 @@ Use if - else condition to print that the given string is palindrome or not
 stop
 
 ## Program:
+A K MOHAN RAJ 
 ``` python 3
 
 using System;
